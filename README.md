@@ -14,7 +14,7 @@ To use and explore this project:
 ## Dataset
 
 The dataset used for this analysis covers the period from the fourth quarter of 2016 to 2020. It includes information on hospital facilities, inpatient and outpatient details, revenue generation, and bed occupancy. The dataset provides a comprehensive view of the California healthcare system during the specified timeframe.
-The CSV File is : https://github.com/sabihaKerur/HealthCare_Analysis/blob/main/healthcare.csv
+The CSV File is : [https://github.com/Yashkinha/HealthCare_Analysis/blob/main/healthcare.csv]
 
 Requirements To run this project, you will need the following:
 
@@ -23,17 +23,6 @@ Power BI desktop version (latest) Olist store dataset in Excel or CSV format Ins
 Open the Power BI file 'Healthcare_Analysis.pbix'.
 The report will be displayed with visuals, charts, and tables.
 Interact with the visuals to gain insights into the performance of the Healthcare Analysis.
-__________________________________________________________________________________________________________________________________________________________________ ## SQL Quarry file 
-SQL Quarry file :https://github.com/sabihaKerur/HealthCare_Analysis/upload/main
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Dashboard
-## Screenshot
-![Screenshot (22)](https://github.com/sabihaKerur/HealthCare_Analysis/assets/104004284/a9e8c473-c020-4b1f-ac95-7c5cf88173b2)
-
-
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
