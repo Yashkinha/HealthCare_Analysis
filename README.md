@@ -26,8 +26,7 @@ Interact with the visuals to gain insights into the performance of the Healthcar
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contact
-If you have any questions, please feel free to contact me at MsSabiha.Professional@example.com.
+
 
 
 
